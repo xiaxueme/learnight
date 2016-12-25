@@ -1,4 +1,3 @@
-This is a test.
-Creatimg a new branch is quick.
-Thanks you for watching
+Git is a version control system.
+Git is free software.
  			by 踏薛寻梅
